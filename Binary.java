@@ -42,4 +42,4 @@ class Binary
     }
 }
 
-// time complexity of binary searching is O(logn)
+// time complexity of binary searching is O(logn), since we are checking for the number in either half of the array
